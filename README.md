@@ -21,5 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=puneet998&show_icons=true&locale=en" alt="puneet998" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puneet998&" alt="puneet998" /></p>
-<P>I AM A PUNEET PRAJAPATI</P>
+
 
