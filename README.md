@@ -316,4 +316,259 @@ I enjoy solving complex problems and continuously learning new technologies in A
 ⭐ Software Architecture  
 
 </div>
+<br>
 
+<div align="center">
+
+# 💼 Professional Experience & Featured Projects
+
+*"Turning ideas into scalable products with clean architecture, modern technologies, and user-focused solutions."*
+
+</div>
+
+---
+
+# 🚀 Currently Building
+
+<table>
+<tr>
+<td width="50%">
+
+## 🌟 BookMyGlow CRM
+
+A modern CRM platform for salon management that streamlines operations and enhances business productivity.
+
+### Responsibilities
+
+- Full Stack Development
+- CRM Dashboard Development
+- REST API Development
+- Authentication & Authorization
+- MSSQL Database Management
+- Performance Optimization
+- Role Based Access Control
+- Payment Management
+- Booking Management
+- Customer Management
+- Reports & Analytics
+- Security Improvements
+- Deployment & Maintenance
+
+### Tech Stack
+
+React.js • Node.js • Express.js • MSSQL • JWT • Docker • Redis • IIS
+
+</td>
+
+<td width="50%">
+
+## 💜 Glow Circle
+
+A modern beauty community platform where customers and partners can connect, share experiences, and grow together.
+
+### Features
+
+- Community Feed
+- Authentication
+- OTP Login
+- Social Features
+- AI Integration
+- Responsive UI
+- Premium Design
+- Mobile Friendly
+- Performance Optimized
+
+### Tech Stack
+
+React • Node.js • Express • MongoDB • JWT • AI APIs
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📱 React Native Applications
+
+Building cross-platform mobile applications with a focus on:
+
+- Beautiful UI
+- Fast Performance
+- API Integration
+- Authentication
+- State Management
+- Production Ready Architecture
+
+---
+
+# 🤖 AI Projects
+
+Exploring AI powered applications using
+
+- OpenAI API
+- LangChain
+- LangGraph
+- AI Agents
+- Prompt Engineering
+- Chatbots
+- Workflow Automation
+- RAG Concepts
+
+---
+
+# 🏆 Professional Highlights
+
+<div align="center">
+
+| Achievement | Description |
+|-------------|-------------|
+| 💻 Full Stack Development | Building complete frontend & backend applications |
+| ⚙ Backend APIs | Designing scalable REST APIs |
+| 🗄 Database Design | MSSQL, MongoDB, MySQL |
+| 🤖 AI Integration | Working with modern AI technologies |
+| 📱 Mobile Apps | React Native Development |
+| 🐳 DevOps | Docker, CI/CD & Deployment |
+| 🔒 Security | JWT, OAuth, Helmet, CSP |
+| ⚡ Optimization | Performance & Scalability |
+
+</div>
+
+---
+
+# 📌 Current Focus
+
+```text
+✔ Scalable Backend Development
+
+✔ Enterprise CRM Systems
+
+✔ AI Powered Applications
+
+✔ DevOps & Docker
+
+✔ System Design
+
+✔ React Native
+
+✔ Performance Optimization
+
+✔ Cloud Computing
+
+✔ Clean Code
+
+✔ Open Source
+```
+
+---
+
+# 🎯 Development Philosophy
+
+> Build applications that are scalable.
+
+> Write code that is clean.
+
+> Never stop learning.
+
+> Solve real-world problems.
+
+> Focus on performance over complexity.
+
+> Simplicity is the ultimate sophistication.
+
+---
+
+<div align="center">
+
+# 📊 GitHub Dashboard
+
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Puneet998&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puneet998&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Puneet998&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Puneet998&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Puneet998&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🐍 Contribution Snake
+
+> Enable this after creating the GitHub Action.
+
+<img src="https://raw.githubusercontent.com/Puneet998/Puneet998/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📈 Contribution Calendar
+
+<img src="https://ghchart.rshah.org/7E3ACE/Puneet998" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 💡 Developer Mindset
+
+```
+
+🚀 Learn Every Day
+
+⚡ Build Real Projects
+
+💻 Write Clean Code
+
+🧠 Think Before Coding
+
+🔒 Security Matters
+
+📦 Performance First
+
+🤝 Team Collaboration
+
+🌍 Continuous Improvement
+
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ "Great software isn't just written—it's designed, optimized, secured, and continuously improved."
+
+</div>
