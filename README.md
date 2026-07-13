@@ -1,61 +1,72 @@
-<!-- 
-=======================================================================
-🚀 PUNEET PRAJAPATI - PREMIUM GITHUB PROFILE README 🚀
-=======================================================================
-INSTRUCTIONS:
-1. Replace all instances of 'YOUR_GITHUB_USERNAME' with your actual GitHub username.
-2. Replace 'YOUR_LINKEDIN_USERNAME' and 'YOUR_TWITTER_USERNAME' with your social handles.
-3. Replace the Spotify placeholder link with a real GitHub Readme Spotify integration URL if desired.
-4. For the Snake Animation, ensure you have set up the GitHub Action in your repo to generate the SVG.
-=======================================================================
--->
-
 <div align="center">
 
-<!-- Hero Banner with Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=250&section=header&text=Puneet%20Prajapati&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20CRM%20Architect&descAlignY=55&descAlign=50" width="100%" alt="Header" />
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Puneet Prajapati
 
-<!-- Typing SVG Animation -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi,+I'm+Puneet+Prajapati+👋;Crafting+Scalable+Web+Applications;Building+AI-Powered+Products;Developing+Next-Gen+CRM+Systems;B.Tech+Computer+Science+Engineer+💻" alt="Typing SVG" />
-</a>
+### 🚀 Full Stack Developer • AI Enthusiast • DevOps Learner • Problem Solver
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+React+Native;Node.js+%7C+Express.js+Developer;AI+%7C+LLMs+%7C+LangChain+%7C+LangGraph;Docker+%7C+Redis+%7C+DevOps;Building+Scalable+CRM+Systems;Always+Learning+New+Technologies" alt="Typing SVG" />
 
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&style=for-the-badge&color=8A2BE2" alt="Profile Views" />
-</p>
+<br>
 
-<!-- Social Connect Badges -->
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME"><img src="https://img.shields.io/badge/X-(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF00FF?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" /></a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Puneet998&label=Profile%20Views&color=7E3ACE&style=for-the-badge"/>
 
----
+<img src="https://img.shields.io/github/followers/Puneet998?logo=github&style=for-the-badge">
 
-### ✦ 👨‍💻 ABOUT ME ✦
+<img src="https://img.shields.io/github/stars/Puneet998?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Open%20Source-Lover-blueviolet?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-success?style=for-the-badge">
 
 </div>
 
-```console
-puneet@mainframe:~$ whoami
-{
-  "name": "Puneet Prajapati",
-  "location": "India 🇮🇳",
-  "education": "B.Tech Computer Science Engineering",
-  "role": "Full Stack Developer",
-  "current_focus": [
-    "Scalable Web Applications", 
-    "CRM Systems", 
-    "AI-Powered Products"
-  ],
-  "currently_working_on": {
-    "company_project": "BookMyGlow CRM",
-    "community_project": "Glow Circle"
-  }
-}
-puneet@mainframe:~$ _
+---
+
+# 💫 About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+### 👨‍💻 Who am I?
+
+I'm **Puneet Prajapati**, a passionate **Full Stack Developer** from **India 🇮🇳** who loves building modern, scalable, and high-performance applications.
+
+Currently I'm working on real-world software where I manage backend APIs, databases, frontend dashboards, authentication, performance optimization, deployment, and system architecture.
+
+I enjoy solving complex problems and continuously learning new technologies in AI, DevOps, Cloud Computing, and System Design.
+
+---
+
+### 🚀 Currently Working On
+
+- 🔥 BookMyGlow CRM
+- 🌟 Glow Circle Community
+- 📱 React Native Applications
+- 🤖 AI Powered Applications
+- ⚡ Performance Optimization
+- 🐳 Docker + Redis Integration
+- ☁️ DevOps & Cloud Learning
+
+---
+
+### 🎯 2026 Goals
+
+- 🚀 Become an Expert Full Stack Engineer
+- 🤖 Build AI SaaS Products
+- 🐳 Master DevOps
+- ☁️ Learn Azure & Kubernetes
+- 🌍 Contribute to Open Source
+- 💼 Work on Large Scale Systems
+
+---
+
+### ⚡ Fun Facts
+
+💜 Love solving challenging problems.
+
+💻 Coding is my favorite hobby.
+
+🚀 Always exploring new technologies.
+
+🌍 Believe in Continuous Learning.
+
+☕ Can spend hours debugging until everything works perfectly.
