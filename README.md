@@ -30,7 +30,7 @@
 
 I'm **Puneet Prajapati**, a passionate **Full Stack Developer** from **India 🇮🇳** who loves building modern, scalable, and high-performance applications.
 
-Currently I'm working on real-world software where I manage backend APIs, databases, frontend dashboards, authentication, performance optimization, deployment, and system architecture.
+Currently working as a Full Stack Engineer at Pragyavani Solutions LLP, contributing to the company's core Enterprise CRM (admin.bookmyglow.in) and the customer-facing product platform (bookmyglow.in).  My responsibilities span the complete software development lifecycle, including frontend architecture, backend API development, database design and optimization, authentication, application security, performance optimization, deployment, production support, and continuous feature development.
 
 I enjoy solving complex problems and continuously learning new technologies in AI, DevOps, Cloud Computing, and System Design.
 
@@ -38,13 +38,25 @@ I enjoy solving complex problems and continuously learning new technologies in A
 
 ### 🚀 Currently Working On
 
-- 🔥 BookMyGlow CRM
-- 🌟 Glow Circle Community
-- 📱 React Native Applications
-- 🤖 AI Powered Applications
+- 🏢 Enterprise CRM Platform (admin.bookmyglow.in)
+
+- 🌐 BookMyGlow Product Platform (bookmyglow.in)
+
+- ⚛️ Enterprise Full Stack Development
+
+- 🗄️ Database Architecture & Optimization
+
+- 🔐 Security & Authentication
+
 - ⚡ Performance Optimization
-- 🐳 Docker + Redis Integration
-- ☁️ DevOps & Cloud Learning
+
+- 🐳 Docker & Redis
+
+- 📱 React Native Applications
+
+- 🤖 AI Powered Applications
+
+- ☁️ DevOps & Cloud Technologies
 
 ---
 
@@ -334,9 +346,17 @@ I enjoy solving complex problems and continuously learning new technologies in A
 <tr>
 <td width="50%">
 
-## 🌟 BookMyGlow CRM
+# 💼 Professional Experience
 
-A modern CRM platform for salon management that streamlines operations and enhances business productivity.
+## 🏢 Pragyavani Solutions LLP
+
+### Full Stack Engineer
+
+Currently working as a Full Stack Engineer at Pragyavani Solutions LLP, where I contribute to the development, optimization, security, and maintenance of the company's core Enterprise CRM and customer-facing product platform.
+
+My role involves building scalable frontend applications, developing backend APIs, managing databases, implementing secure authentication systems, improving application performance, fixing production issues, and delivering new business features while ensuring the reliability of production systems.
+
+I work across the complete technology stack and actively contribute to software architecture, performance tuning, deployment, and continuous product improvement.
 
 ### Responsibilities
 
@@ -362,25 +382,43 @@ React.js • Node.js • Express.js • MSSQL • JWT • Docker • Redis • I
 
 <td width="50%">
 
-## 💜 Glow Circle
+Customer-facing salon booking platform developed and maintained under Pragyavani Solutions LLP.
 
-A modern beauty community platform where customers and partners can connect, share experiences, and grow together.
+Responsibilities
 
-### Features
+✔ Frontend Development
 
-- Community Feed
-- Authentication
-- OTP Login
-- Social Features
-- AI Integration
-- Responsive UI
-- Premium Design
-- Mobile Friendly
-- Performance Optimized
+✔ Backend APIs
 
-### Tech Stack
+✔ Booking System
 
-React • Node.js • Express • MongoDB • JWT • AI APIs
+✔ Authentication
+
+✔ Customer Portal
+
+✔ Performance Optimization
+
+✔ Responsive UI
+
+✔ SEO Improvements
+
+✔ Production Maintenance
+
+✔ Feature Development
+
+Tech
+
+React.js
+
+Node.js
+
+Express.js
+
+MongoDB
+
+JWT
+
+REST APIs
 
 </td>
 </tr>
