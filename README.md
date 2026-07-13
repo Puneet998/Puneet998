@@ -572,3 +572,212 @@ Exploring AI powered applications using
 ### ⭐ "Great software isn't just written—it's designed, optimized, secured, and continuously improved."
 
 </div>
+
+<br>
+
+<div align="center">
+
+# 🌐 Let's Connect
+
+### *"Open to collaborations, exciting projects, and continuous learning."*
+
+<p>
+<a href="https://github.com/Puneet998">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@YOUR_CHANNEL">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://t.me/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/YOUR_ID">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+</div>
+
+---
+
+# 💻 Coding Profiles
+
+<div align="center">
+
+| Platform | Profile |
+|----------|---------|
+| 💛 LeetCode | https://leetcode.com/YOUR_USERNAME |
+| 🍜 GeeksforGeeks | https://www.geeksforgeeks.org/user/YOUR_USERNAME |
+| 🍛 HackerRank | https://www.hackerrank.com/YOUR_USERNAME |
+| 👨‍🍳 CodeChef | https://www.codechef.com/users/YOUR_USERNAME |
+| ⚔️ Codeforces | https://codeforces.com/profile/YOUR_USERNAME |
+| 🧠 Stack Overflow | https://stackoverflow.com/users/YOUR_ID |
+| ✍️ Hashnode | https://hashnode.com/@YOUR_USERNAME |
+| 📖 Medium | https://medium.com/@YOUR_USERNAME |
+| 💻 Dev.to | https://dev.to/YOUR_USERNAME |
+
+</div>
+
+---
+
+# 🚀 Current Learning Roadmap
+
+```text
+██████████████████████████████████████
+
+✔ Advanced React
+
+✔ Next.js Architecture
+
+✔ React Native
+
+✔ TypeScript
+
+✔ Node.js Scaling
+
+✔ Express Best Practices
+
+✔ Redis
+
+✔ Docker
+
+✔ Docker Compose
+
+✔ GitHub Actions
+
+✔ Azure
+
+✔ Kubernetes
+
+✔ LangChain
+
+✔ LangGraph
+
+✔ AI Agents
+
+✔ Prompt Engineering
+
+✔ System Design
+
+✔ Microservices
+
+✔ Web Security
+
+✔ Performance Optimization
+
+██████████████████████████████████████
+```
+
+---
+
+# 📚 Currently Exploring
+
+- 🤖 Artificial Intelligence
+- 🧠 Large Language Models (LLMs)
+- 🔗 AI Agent Workflows
+- ⚡ High Performance Backend Systems
+- ☁️ Cloud Infrastructure
+- 🐳 DevOps Best Practices
+- 🧩 Scalable System Design
+- 📱 Cross-Platform Mobile Development
+
+---
+
+# 📈 2026 Goals
+
+- 🚀 Build Production-Ready SaaS Products
+- 🌍 Contribute More to Open Source
+- 🤖 Build Advanced AI Applications
+- 📱 Publish React Native Apps
+- ☁️ Master Cloud & DevOps
+- 🏆 Become a Senior Full Stack Engineer
+
+---
+
+# 🤝 Open for Collaboration
+
+I'm interested in collaborating on:
+
+- Enterprise CRM Systems
+- AI Applications
+- SaaS Platforms
+- Full Stack Projects
+- React & Next.js
+- React Native
+- Backend APIs
+- Open Source Projects
+
+---
+
+# ☕ Support My Work
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+Your support motivates me to build more amazing projects.
+
+---
+
+<div align="center">
+
+## 💬 Favorite Quote
+
+> **"First, solve the problem. Then, write the code." — John Johnson**
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Fun Developer Facts
+
+🧠 Love solving real-world problems.
+
+💻 Enjoy building scalable software.
+
+🚀 Always exploring new technologies.
+
+🤖 Curious about AI and automation.
+
+🐳 Learning DevOps one step at a time.
+
+📚 Continuous learning is my lifestyle.
+
+</div>
+
+---
+
+<div align="center">
+
+# 🚀 Thanks for Visiting My Profile
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7E3ACE&height=120&section=footer"/>
+
+### ⭐ If you like my work, don't forget to follow me and star my repositories!
+
+**Happy Coding 💜**
+
+</div>
