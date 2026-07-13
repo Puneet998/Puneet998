@@ -70,3 +70,250 @@ I enjoy solving complex problems and continuously learning new technologies in A
 🌍 Believe in Continuous Learning.
 
 ☕ Can spend hours debugging until everything works perfectly.
+<br>
+
+<div align="center">
+
+# ⚡ Tech Arsenal
+
+### 💻 Technologies • Frameworks • Tools • Platforms I Work With
+
+*"Learning never stops. Every technology is another weapon in my arsenal."* 🚀
+
+</div>
+
+---
+
+# 👨‍💻 Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css,bash"/>
+
+</p>
+
+---
+
+# 🎨 Frontend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui,vite"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📱 Mobile Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+</p>
+
+---
+
+# ⚙️ Backend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/API_Design-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Authentication-success?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🗄️ Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Mongoose-darkgreen?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
+</p>
+
+---
+
+# 🤖 Artificial Intelligence
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=openai"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangChain-0FA958?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangGraph-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI_Agents-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt_Engineering-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-darkred?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Vector_Database-6C63FF?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🐳 DevOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,linux"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CI/CD-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/IIS_Server-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx"/>
+
+<img src="https://img.shields.io/badge/Performance_Optimization-orange?style=for-the-badge"/>
+
+</p>
+
+---
+
+# ☁️ Cloud & Deployment
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=azure,firebase"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Cloudinary-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel"/>
+
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify"/>
+
+</p>
+
+---
+
+# 🔒 Security
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OAuth-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Helmet-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CSP-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CORS-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OWASP-darkred?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🛠️ Development Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,npm,yarn"/>
+
+</p>
+
+---
+
+# ⚙️ Other Technologies
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socketdotio"/>
+
+<img src="https://img.shields.io/badge/Axios-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Multer-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PWA-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Excel_Import_Export-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PDF_Generation-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OTP_Authentication-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CRM_Development-blueviolet?style=for-the-badge"/>
+
+</p>
+
+---
+
+<div align="center">
+
+## 🚀 Always Learning
+
+> **"Technology changes every day, and so do I."**
+
+⭐ Full Stack Development  
+⭐ Artificial Intelligence  
+⭐ DevOps  
+⭐ Cloud Computing  
+⭐ System Design  
+⭐ Software Architecture  
+
+</div>
+
